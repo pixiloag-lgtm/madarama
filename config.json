@@ -1,3 +1,17 @@
 {
-  "api_endpoint": "aHR0cDovLzUuMTc1LjEzNi4yMTM6ODAwMC9vY3I="
+  "inventory": {
+    "base_offset": 7849760,
+    "slot_offsets": {"first": 128, "second": 265, "step": 133}
+  },
+  "chat": {
+    "base_offset": 49754836,
+    "text_offset": 804
+  },
+  "pm_detection": {
+    "check_x": 750,
+    "check_y": 221,
+    "target_rgb": [255, 251, 255],
+    "tolerance": 10
+  },
+  "version": "1.0"
 }
