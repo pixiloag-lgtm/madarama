@@ -13,5 +13,23 @@
     "target_rgb": [255, 251, 255],
     "tolerance": 10
   },
-  "version": "1.0"
+  "player_detection": {
+    "character_manager_ptr": 30662848,
+    "alive_map_offset": 32,
+    "map_head_offset": 0,
+    "node_left": 0,
+    "node_right": 8,
+    "node_parent": 4,
+    "node_isnil": 13,
+    "node_key": 16,
+    "node_val": 20,
+    "chr_type_offset": 1860,
+    "chr_name_offset": 24,
+    "chr_level_offset": 84,
+    "chr_pos_x_offset": 1988,
+    "chr_pos_y_offset": 1992,
+    "process_name": "metin2client.exe",
+    "module_name": "metin2client.exe"
+  },
+  "version": "1.1"
 }
