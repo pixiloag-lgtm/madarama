@@ -1,11 +1,11 @@
 {
   "inventory": {
-    "base_offset": 7849760,
-    "slot_offsets": {"first": 128, "second": 265, "step": 133}
+    "base_offset": "0x2EACF20",
+    "slot_offsets": {"first": "0x80", "second": "0x109", "step": "0x85"}
   },
   "chat": {
-    "base_offset": 49431548,
-    "text_offset": 804
+    "base_offset": "0x02F271FC",
+    "text_offset": "0x324"
   },
   "pm_detection": {
     "check_x": 750,
@@ -14,22 +14,22 @@
     "tolerance": 10
   },
   "player_detection": {
-    "character_manager_ptr": 30662848,
-    "alive_map_offset": 32,
-    "map_head_offset": 0,
-    "node_left": 0,
-    "node_right": 8,
-    "node_parent": 4,
-    "node_isnil": 13,
-    "node_key": 16,
-    "node_val": 20,
-    "chr_type_offset": 1860,
-    "chr_name_offset": 24,
-    "chr_level_offset": 84,
-    "chr_pos_x_offset": 1988,
-    "chr_pos_y_offset": 1992,
+    "character_manager_ptr": "0x2EACEC0",
+    "alive_map_offset": "0x20",
+    "map_head_offset": "0x00",
+    "node_left": "0x00",
+    "node_right": "0x08",
+    "node_parent": "0x04",
+    "node_isnil": "0x0D",
+    "node_key": "0x10",
+    "node_val": "0x14",
+    "chr_type_offset": "0x744",
+    "chr_name_offset": "0x18",
+    "chr_level_offset": "0x54",
+    "chr_pos_x_offset": "0x7C4",
+    "chr_pos_y_offset": "0x7C8",
     "process_name": "metin2client.exe",
     "module_name": "metin2client.exe"
   },
-  "version": "1.1"
+  "version": "1.2"
 }
