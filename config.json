@@ -4,7 +4,7 @@
     "slot_offsets": {"first": 128, "second": 265, "step": 133}
   },
   "chat": {
-    "base_offset": x02F271FC,
+    "base_offset": 49431548,
     "text_offset": 804
   },
   "pm_detection": {
