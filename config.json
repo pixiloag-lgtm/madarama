@@ -1,7 +1,7 @@
 
 {
   "inventory": {
-    "base_offset": 0,
+    "base_offset": 7849760,
     "slot_offsets": {"first": 128, "second": 265, "step": 133}
   },
   "chat": {
