@@ -1,7 +1,7 @@
 {
   "version": "1.5",
   "chat": {
-    "base_offset": 0x02F271FC,
-    "text_offset": 0x324
+    "base_offset": 49402364,
+    "text_offset": 804
   }
 }
