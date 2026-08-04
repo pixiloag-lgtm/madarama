@@ -1,8 +1,11 @@
-
 {
   "inventory": {
     "base_offset": 7849760,
-    "slot_offsets": {"first": 128, "second": 265, "step": 133}
+    "slot_offsets": {
+      "first": 128,
+      "second": 265,
+      "step": 133
+    }
   },
   "chat": {
     "base_offset": 49431548,
@@ -11,7 +14,11 @@
   "pm_detection": {
     "check_x": 750,
     "check_y": 221,
-    "target_rgb": [255, 251, 255],
+    "target_rgb": [
+      255,
+      251,
+      255
+    ],
     "tolerance": 10
   },
   "player_detection": {
@@ -31,6 +38,16 @@
     "chr_pos_y_offset": 1992,
     "process_name": "metin2client.exe",
     "module_name": "metin2client.exe"
+  },
+  "player_controller": {
+    "player_base_offset": 48942884,
+    "state_offset": 100,
+    "target_x_offset": 237208,
+    "target_y_offset": 237212,
+    "character_manager_ptr": 48942784,
+    "char_instance_offset": 12,
+    "chr_pos_x_offset": 1988,
+    "chr_pos_y_offset": 1992
   },
   "version": "1.1"
 }
