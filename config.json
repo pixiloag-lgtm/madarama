@@ -1,7 +1,49 @@
 {
-  "version": "1.6",
+  "version": "2.0",
+  "inventory": {
+    "base_offset": "0x2EACCA0",
+    "slot_offsets": {
+      "first": "0x80",
+      "second": "0x109",
+      "step": "0x85"
+    }
+  },
   "chat": {
-    "base_offset": "0x02F271FC",
+    "base_offset": "0x02F26F7C",
     "text_offset": "0x324"
+  },
+  "pm_detection": {
+    "check_x": 750,
+    "check_y": 221,
+    "target_rgb": [255, 251, 255],
+    "tolerance": 10
+  },
+  "player_detection": {
+    "character_manager_ptr": "0x2EACC40",
+    "alive_map_offset": "0x20",
+    "map_head_offset": "0x00",
+    "node_left": "0x00",
+    "node_right": "0x08",
+    "node_parent": "0x04",
+    "node_isnil": "0x0D",
+    "node_key": "0x10",
+    "node_val": "0x14",
+    "chr_type_offset": "0x744",
+    "chr_name_offset": "0x18",
+    "chr_level_offset": "0x54",
+    "chr_pos_x_offset": "0x7C4",
+    "chr_pos_y_offset": "0x7C8",
+    "process_name": "metin2client.exe",
+    "module_name": "metin2client.exe"
+  },
+  "player_controller": {
+    "player_base_offset": "0x2EACCA4",
+    "state_offset": "0x64",
+    "target_x_offset": "0x39E98",
+    "target_y_offset": "0x39E9C",
+    "character_manager_ptr": "0x2EACC40",
+    "char_instance_offset": "0x0C",
+    "chr_pos_x_offset": "0x7C4",
+    "chr_pos_y_offset": "0x7C8"
   }
 }
