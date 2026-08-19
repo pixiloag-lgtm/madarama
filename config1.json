@@ -23,7 +23,7 @@
     "tolerance": 10
   },
   "player_detection": {
-    "character_manager_ptr": "0x2EACEC0",
+    "character_manager_ptr": "0x2EACC40",
     "alive_map_offset": "0x20",
     "map_head_offset": "0x00",
     "node_left": "0x00",
@@ -45,7 +45,7 @@
     "state_offset": "0x64",
     "target_x_offset": "0x39E98",
     "target_y_offset": "0x39E9C",
-    "character_manager_ptr": "0x2EACEC0",
+    "character_manager_ptr": "0x2EACC40",
     "char_instance_offset": "0x0C",
     "chr_pos_x_offset": "0x7C4",
     "chr_pos_y_offset": "0x7C8"
